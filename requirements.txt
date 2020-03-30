@@ -1,0 +1,9 @@
+tensorflow-gpu==2.1.0
+Cython
+contextlib2
+pillow
+lxml
+labelimg
+pandas
+numpy
+opencv-python
